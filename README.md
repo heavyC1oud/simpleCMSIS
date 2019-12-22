@@ -1,5 +1,6 @@
 # simpleCMSIS
 Проект для статьи https://habr.com/ru/post/481478/
+
 Простой проект мигания светодиодом с использованием библиотеки CMSIS
 Отладочная плата STM32F072B-DISCO с микроконтролером STM32F072RBT6
 Тактирование от внутреннего генератора HSI48, частота 48 МГц
@@ -9,6 +10,7 @@
 ***********************************************************************
 ***********************************************************************
 Project for article https://habr.com/ru/post/481478/
+
 Simple LED flashing project using CMSIS library
 Debug board STM32F072B-DISCO with microcontroller STM32F072RBT6
 Clock from HSI48 Internal Generator, 48 MHz
